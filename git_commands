@@ -1,4 +1,6 @@
-git init
-git status 
-git add
-git commit -m "Some message"
+git init -- To initalize the repository
+git status -- To see the status 
+git add -- Add the files to the stage
+git commit -m "Some message" -- commit the changes and display message
+git log -- Shows the commits we have done
+
